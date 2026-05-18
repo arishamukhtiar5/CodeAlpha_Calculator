@@ -1,6 +1,7 @@
+# 🧮 CodeAlpha Calculator
 
-A simple and responsive calculator website built using **HTML, CSS, and JavaScript** as a part of the **CodeAlpha Internship Task**. 
-This calculator performs basic arithmetic operations with a clean and user-friendly interface.
+## 📖 About Project
+A simple and responsive calculator website built using **HTML, CSS, and JavaScript** as a part of the **CodeAlpha Internship Task**. This calculator performs basic arithmetic operations with a clean and user-friendly interface.
 
 ## 🚀 Features
 - Addition
